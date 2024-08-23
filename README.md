@@ -8,7 +8,7 @@
 
 <!-- Short Bio -->
 <p>
-I am a Web Designer and Developer with a strong focus on creating high-quality WordPress plugins and themes. As the Founder and CEO of Weblenser, a specialized web development agency, I lead a team of innovative professionals, leveraging my extensive experience in the industry to deliver successful projects.
+I am a Web Designer and Developer with a strong focus on creating high-quality WordPress plugins and themes. As the Founder and CEO of Weblan3er, a specialized web development agency, I lead a team of innovative professionals, leveraging my extensive experience in the industry to deliver successful projects.
 </br>
 My expertise in HTML, CSS, JavaScript, and PHP, combined with in-depth knowledge of WordPress, allows me to craft custom and scalable solutions tailored to unique client needs. In my work, I am committed to delivering user experiences that are both intuitive and engaging, ensuring satisfaction for both end-users and site administrators.
 </br>
